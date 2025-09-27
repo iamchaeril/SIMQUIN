@@ -7,11 +7,11 @@ Dibangun menggunakan **PHP Native** dengan database **MySQL**.
 
 ## 🚀 Fitur Utama
 
-- Manajemen Produk
-- Manajemen User
+- Manajemen Client
 - Manajemen Quotation / Penawaran
 - Manajemen Invoice
-- Template untuk pengembangan lebih lanjut
+- Manajemen User
+- Laporan Pembayaran
 
 ---
 
