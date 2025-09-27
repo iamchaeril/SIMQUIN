@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteBase /
+
+# Hilangkan .php dari URL
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^/]+)/?$ $1.php [L]
+
+# Tangani URL dengan parameter (misal: edit_quotation/5)
+RewriteRule ^([a-zA-Z_]+)/([0-9]+)$ $1.php?id=$2 [L,QSA]
