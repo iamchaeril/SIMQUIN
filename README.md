@@ -7,11 +7,11 @@ Dibangun menggunakan **PHP Native** dengan database **MySQL**.
 
 ## 🚀 Fitur Utama
 
-- Manajemen Client
-- Manajemen Quotation / Penawaran
-- Manajemen Invoice
-- Manajemen User
-- Laporan Pembayaran
+- Manajemen Client (Tambah, Edit, Hapus, Pencarian)
+- Manajemen Quotation / Penawaran (Tambah, Edit, Hapus, Penacrian, Approval Respon Client, PDF QO, BUAT INVOICE) 
+- Manajemen Invoice (Filter Pencarian Client atau Nomor Inv, Filter Tanggal, Aksi Bayar, PDF Inv)
+- Manajemen User (Tambah, Edit, Hapus, Pencarian)
+- Laporan Pembayaran (Filter Pencarian Client atau Nomor Inv, Filter Tanggal)
 
 ---
 
